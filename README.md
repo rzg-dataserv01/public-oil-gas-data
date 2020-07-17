@@ -34,12 +34,16 @@
 * FracFocus - FracFocus.org is a site for voluntary (except in some states) disclosure of chemicals, additives, and volumes used in hydraulic fracturing. Data quality and coverage is hit-and-miss, but it's one of the few public sources for detailed frac-design data.
 http://fracfocus.org/. [outdated-keep?] An environmental group carried out some heavy data munging to get the FracFocus set (up to May 2013) into a more usable form. http://frack.skytruth.org/fracking-chemical-database
 
-* UT Lands - The University of Texas system holds land and mineral rights to large areas in West Texas. This site allows access to production data, maps, and digitized well logs for wells on these lands.
-http://www.utlands.utsystem.edu/
-
 * Public Mapping & GIS Data
   * USGS National Map Viewer - Download various publicly-available topo, etc. maps.
 http://viewer.nationalmap.gov/viewer/
+
+* State Geological Surveys
+ * ...
+
+* Academic Institutions
+ * UT Lands - The University of Texas system holds land and mineral rights to large areas in West Texas. This site allows access to production data, maps, and digitized well logs for wells on these lands.
+http://www.utlands.utsystem.edu/
 
 Currently maintained by ...
 Created by: [dwt](https://github.com/derrickturk) | [terminus data science, LLC](http://www.terminusdatascience.com)
