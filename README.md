@@ -1,5 +1,5 @@
-# Public Oil & Gas Data
-=========================
+# Public US Oil & Gas Data
+============================
 
 ### This forked list adds to the great sources (originally compiled by derrickturk) of publicly available (and free) oil & gas data collected by numerous regulatory (federal, state, etc.) agencies. Datasets include: oil & gas well production, well logs, well completions, geology, and more.
 
